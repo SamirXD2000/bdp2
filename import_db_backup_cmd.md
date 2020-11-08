@@ -1,0 +1,1 @@
+docker exec -i db_basedatosclase_1 mysql -uroot -pmyrootpassword mydb < food.sql
